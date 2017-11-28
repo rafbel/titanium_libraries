@@ -1,7 +1,3 @@
-// @Author: Thiago Lobo
-
-// TODO: uma forma de escalar conforme o tamanho desejado do arquivo!
-
 // function Image(width, height, file) {
 function Image(file) {
 	
