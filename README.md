@@ -9,7 +9,7 @@ Custom made libraries for Appcelerator Titanium.
 ```
 ArrowLib.login(username,password,$.loadingIndicator,function(user)
 {
-  console.log(user.username " is logged in!");
+  console.log(user.username " + is logged in!");
 });
 ```
 
